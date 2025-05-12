@@ -9,6 +9,11 @@ class Review extends Model
 {
     /** @use HasFactory<\Database\Factories\ReviewFactory> */
     use HasFactory;
+    protected $fillable = [
+        'book_id',
+        'review',
+        'rating'
+    ];
     public function books()
     {
         $this->belongsTo(Book::class);
