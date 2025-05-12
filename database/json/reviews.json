@@ -1,0 +1,3042 @@
+[
+    {
+        "book_id": 1,
+        "review": "Felt like a copy of another book.",
+        "rating": 5
+    },
+    {
+        "book_id": 1,
+        "review": "Some chapters dragged on, but overall good.",
+        "rating": 3
+    },
+    {
+        "book_id": 1,
+        "review": "Exceptional writing and plot.",
+        "rating": 4
+    },
+    {
+        "book_id": 1,
+        "review": "Not bad, but could have been shorter.",
+        "rating": 2
+    },
+    {
+        "book_id": 1,
+        "review": "Felt like a copy of another book.",
+        "rating": 5
+    },
+    {
+        "book_id": 1,
+        "review": "Felt like a copy of another book.",
+        "rating": 4
+    },
+    {
+        "book_id": 1,
+        "review": "Great story, characters felt real.",
+        "rating": 2
+    },
+    {
+        "book_id": 1,
+        "review": "Felt like a copy of another book.",
+        "rating": 1
+    },
+    {
+        "book_id": 2,
+        "review": "I couldn't put it down!",
+        "rating": 1
+    },
+    {
+        "book_id": 2,
+        "review": "Too predictable, not for me.",
+        "rating": 3
+    },
+    {
+        "book_id": 2,
+        "review": "A bit slow in the beginning, but it picks up.",
+        "rating": 5
+    },
+    {
+        "book_id": 2,
+        "review": "Wonderful journey from start to finish.",
+        "rating": 2
+    },
+    {
+        "book_id": 3,
+        "review": "Exceptional writing and plot.",
+        "rating": 2
+    },
+    {
+        "book_id": 3,
+        "review": "Great story, characters felt real.",
+        "rating": 5
+    },
+    {
+        "book_id": 3,
+        "review": "Some chapters dragged on, but overall good.",
+        "rating": 5
+    },
+    {
+        "book_id": 3,
+        "review": "A bit slow in the beginning, but it picks up.",
+        "rating": 5
+    },
+    {
+        "book_id": 4,
+        "review": "Too predictable, not for me.",
+        "rating": 4
+    },
+    {
+        "book_id": 4,
+        "review": "A bit slow in the beginning, but it picks up.",
+        "rating": 3
+    },
+    {
+        "book_id": 4,
+        "review": "Not bad, but could have been shorter.",
+        "rating": 1
+    },
+    {
+        "book_id": 4,
+        "review": "Wonderful journey from start to finish.",
+        "rating": 1
+    },
+    {
+        "book_id": 4,
+        "review": "I couldn't put it down!",
+        "rating": 2
+    },
+    {
+        "book_id": 4,
+        "review": "Exceptional writing and plot.",
+        "rating": 3
+    },
+    {
+        "book_id": 5,
+        "review": "Not bad, but could have been shorter.",
+        "rating": 1
+    },
+    {
+        "book_id": 5,
+        "review": "Exceptional writing and plot.",
+        "rating": 5
+    },
+    {
+        "book_id": 5,
+        "review": "Great story, characters felt real.",
+        "rating": 5
+    },
+    {
+        "book_id": 5,
+        "review": "Not bad, but could have been shorter.",
+        "rating": 2
+    },
+    {
+        "book_id": 5,
+        "review": "Great story, characters felt real.",
+        "rating": 4
+    },
+    {
+        "book_id": 5,
+        "review": "Too predictable, not for me.",
+        "rating": 3
+    },
+    {
+        "book_id": 5,
+        "review": "I couldn't put it down!",
+        "rating": 1
+    },
+    {
+        "book_id": 6,
+        "review": "Absolutely loved it! Highly recommended.",
+        "rating": 5
+    },
+    {
+        "book_id": 6,
+        "review": "Wonderful journey from start to finish.",
+        "rating": 3
+    },
+    {
+        "book_id": 6,
+        "review": "Absolutely loved it! Highly recommended.",
+        "rating": 1
+    },
+    {
+        "book_id": 6,
+        "review": "Absolutely loved it! Highly recommended.",
+        "rating": 1
+    },
+    {
+        "book_id": 6,
+        "review": "Some chapters dragged on, but overall good.",
+        "rating": 1
+    },
+    {
+        "book_id": 6,
+        "review": "Absolutely loved it! Highly recommended.",
+        "rating": 3
+    },
+    {
+        "book_id": 6,
+        "review": "Not bad, but could have been shorter.",
+        "rating": 4
+    },
+    {
+        "book_id": 6,
+        "review": "A bit slow in the beginning, but it picks up.",
+        "rating": 5
+    },
+    {
+        "book_id": 7,
+        "review": "I couldn't put it down!",
+        "rating": 3
+    },
+    {
+        "book_id": 7,
+        "review": "Exceptional writing and plot.",
+        "rating": 2
+    },
+    {
+        "book_id": 7,
+        "review": "I couldn't put it down!",
+        "rating": 2
+    },
+    {
+        "book_id": 7,
+        "review": "I couldn't put it down!",
+        "rating": 2
+    },
+    {
+        "book_id": 7,
+        "review": "I couldn't put it down!",
+        "rating": 2
+    },
+    {
+        "book_id": 8,
+        "review": "Too predictable, not for me.",
+        "rating": 5
+    },
+    {
+        "book_id": 8,
+        "review": "Very creative and unique concept.",
+        "rating": 4
+    },
+    {
+        "book_id": 8,
+        "review": "Felt like a copy of another book.",
+        "rating": 1
+    },
+    {
+        "book_id": 8,
+        "review": "A bit slow in the beginning, but it picks up.",
+        "rating": 4
+    },
+    {
+        "book_id": 8,
+        "review": "Too predictable, not for me.",
+        "rating": 4
+    },
+    {
+        "book_id": 8,
+        "review": "A bit slow in the beginning, but it picks up.",
+        "rating": 3
+    },
+    {
+        "book_id": 8,
+        "review": "Some chapters dragged on, but overall good.",
+        "rating": 2
+    },
+    {
+        "book_id": 9,
+        "review": "Felt like a copy of another book.",
+        "rating": 5
+    },
+    {
+        "book_id": 9,
+        "review": "Very creative and unique concept.",
+        "rating": 1
+    },
+    {
+        "book_id": 9,
+        "review": "Some chapters dragged on, but overall good.",
+        "rating": 3
+    },
+    {
+        "book_id": 9,
+        "review": "Some chapters dragged on, but overall good.",
+        "rating": 1
+    },
+    {
+        "book_id": 9,
+        "review": "Great story, characters felt real.",
+        "rating": 4
+    },
+    {
+        "book_id": 10,
+        "review": "Absolutely loved it! Highly recommended.",
+        "rating": 3
+    },
+    {
+        "book_id": 10,
+        "review": "Absolutely loved it! Highly recommended.",
+        "rating": 2
+    },
+    {
+        "book_id": 10,
+        "review": "Exceptional writing and plot.",
+        "rating": 3
+    },
+    {
+        "book_id": 10,
+        "review": "Great story, characters felt real.",
+        "rating": 2
+    },
+    {
+        "book_id": 10,
+        "review": "A bit slow in the beginning, but it picks up.",
+        "rating": 3
+    },
+    {
+        "book_id": 11,
+        "review": "A bit slow in the beginning, but it picks up.",
+        "rating": 4
+    },
+    {
+        "book_id": 11,
+        "review": "Not bad, but could have been shorter.",
+        "rating": 1
+    },
+    {
+        "book_id": 11,
+        "review": "Exceptional writing and plot.",
+        "rating": 4
+    },
+    {
+        "book_id": 11,
+        "review": "Too predictable, not for me.",
+        "rating": 2
+    },
+    {
+        "book_id": 11,
+        "review": "Great story, characters felt real.",
+        "rating": 4
+    },
+    {
+        "book_id": 12,
+        "review": "Very creative and unique concept.",
+        "rating": 5
+    },
+    {
+        "book_id": 12,
+        "review": "A bit slow in the beginning, but it picks up.",
+        "rating": 4
+    },
+    {
+        "book_id": 12,
+        "review": "Absolutely loved it! Highly recommended.",
+        "rating": 1
+    },
+    {
+        "book_id": 12,
+        "review": "I couldn't put it down!",
+        "rating": 4
+    },
+    {
+        "book_id": 13,
+        "review": "Great story, characters felt real.",
+        "rating": 5
+    },
+    {
+        "book_id": 13,
+        "review": "Absolutely loved it! Highly recommended.",
+        "rating": 4
+    },
+    {
+        "book_id": 13,
+        "review": "Wonderful journey from start to finish.",
+        "rating": 3
+    },
+    {
+        "book_id": 13,
+        "review": "Wonderful journey from start to finish.",
+        "rating": 3
+    },
+    {
+        "book_id": 13,
+        "review": "Felt like a copy of another book.",
+        "rating": 4
+    },
+    {
+        "book_id": 13,
+        "review": "Very creative and unique concept.",
+        "rating": 2
+    },
+    {
+        "book_id": 13,
+        "review": "Absolutely loved it! Highly recommended.",
+        "rating": 1
+    },
+    {
+        "book_id": 14,
+        "review": "I couldn't put it down!",
+        "rating": 2
+    },
+    {
+        "book_id": 14,
+        "review": "I couldn't put it down!",
+        "rating": 3
+    },
+    {
+        "book_id": 14,
+        "review": "Some chapters dragged on, but overall good.",
+        "rating": 3
+    },
+    {
+        "book_id": 14,
+        "review": "Too predictable, not for me.",
+        "rating": 1
+    },
+    {
+        "book_id": 14,
+        "review": "I couldn't put it down!",
+        "rating": 3
+    },
+    {
+        "book_id": 14,
+        "review": "Felt like a copy of another book.",
+        "rating": 2
+    },
+    {
+        "book_id": 14,
+        "review": "Absolutely loved it! Highly recommended.",
+        "rating": 1
+    },
+    {
+        "book_id": 14,
+        "review": "Felt like a copy of another book.",
+        "rating": 3
+    },
+    {
+        "book_id": 15,
+        "review": "Felt like a copy of another book.",
+        "rating": 1
+    },
+    {
+        "book_id": 15,
+        "review": "Great story, characters felt real.",
+        "rating": 2
+    },
+    {
+        "book_id": 15,
+        "review": "Not bad, but could have been shorter.",
+        "rating": 1
+    },
+    {
+        "book_id": 15,
+        "review": "Absolutely loved it! Highly recommended.",
+        "rating": 5
+    },
+    {
+        "book_id": 15,
+        "review": "Very creative and unique concept.",
+        "rating": 4
+    },
+    {
+        "book_id": 15,
+        "review": "Some chapters dragged on, but overall good.",
+        "rating": 2
+    },
+    {
+        "book_id": 15,
+        "review": "Felt like a copy of another book.",
+        "rating": 5
+    },
+    {
+        "book_id": 15,
+        "review": "Felt like a copy of another book.",
+        "rating": 5
+    },
+    {
+        "book_id": 16,
+        "review": "Felt like a copy of another book.",
+        "rating": 1
+    },
+    {
+        "book_id": 16,
+        "review": "Wonderful journey from start to finish.",
+        "rating": 3
+    },
+    {
+        "book_id": 16,
+        "review": "I couldn't put it down!",
+        "rating": 1
+    },
+    {
+        "book_id": 16,
+        "review": "Very creative and unique concept.",
+        "rating": 5
+    },
+    {
+        "book_id": 16,
+        "review": "A bit slow in the beginning, but it picks up.",
+        "rating": 2
+    },
+    {
+        "book_id": 16,
+        "review": "Some chapters dragged on, but overall good.",
+        "rating": 5
+    },
+    {
+        "book_id": 16,
+        "review": "Too predictable, not for me.",
+        "rating": 4
+    },
+    {
+        "book_id": 16,
+        "review": "Too predictable, not for me.",
+        "rating": 2
+    },
+    {
+        "book_id": 17,
+        "review": "Too predictable, not for me.",
+        "rating": 3
+    },
+    {
+        "book_id": 17,
+        "review": "Felt like a copy of another book.",
+        "rating": 3
+    },
+    {
+        "book_id": 17,
+        "review": "Not bad, but could have been shorter.",
+        "rating": 1
+    },
+    {
+        "book_id": 17,
+        "review": "Not bad, but could have been shorter.",
+        "rating": 4
+    },
+    {
+        "book_id": 17,
+        "review": "Not bad, but could have been shorter.",
+        "rating": 5
+    },
+    {
+        "book_id": 18,
+        "review": "Very creative and unique concept.",
+        "rating": 4
+    },
+    {
+        "book_id": 18,
+        "review": "Not bad, but could have been shorter.",
+        "rating": 5
+    },
+    {
+        "book_id": 18,
+        "review": "Some chapters dragged on, but overall good.",
+        "rating": 2
+    },
+    {
+        "book_id": 18,
+        "review": "I couldn't put it down!",
+        "rating": 4
+    },
+    {
+        "book_id": 18,
+        "review": "Not bad, but could have been shorter.",
+        "rating": 5
+    },
+    {
+        "book_id": 18,
+        "review": "Absolutely loved it! Highly recommended.",
+        "rating": 2
+    },
+    {
+        "book_id": 19,
+        "review": "Great story, characters felt real.",
+        "rating": 4
+    },
+    {
+        "book_id": 19,
+        "review": "Too predictable, not for me.",
+        "rating": 4
+    },
+    {
+        "book_id": 19,
+        "review": "Great story, characters felt real.",
+        "rating": 5
+    },
+    {
+        "book_id": 19,
+        "review": "Exceptional writing and plot.",
+        "rating": 3
+    },
+    {
+        "book_id": 20,
+        "review": "Felt like a copy of another book.",
+        "rating": 5
+    },
+    {
+        "book_id": 20,
+        "review": "Wonderful journey from start to finish.",
+        "rating": 2
+    },
+    {
+        "book_id": 20,
+        "review": "I couldn't put it down!",
+        "rating": 1
+    },
+    {
+        "book_id": 20,
+        "review": "Absolutely loved it! Highly recommended.",
+        "rating": 2
+    },
+    {
+        "book_id": 20,
+        "review": "Some chapters dragged on, but overall good.",
+        "rating": 5
+    },
+    {
+        "book_id": 20,
+        "review": "A bit slow in the beginning, but it picks up.",
+        "rating": 1
+    },
+    {
+        "book_id": 20,
+        "review": "Some chapters dragged on, but overall good.",
+        "rating": 5
+    },
+    {
+        "book_id": 21,
+        "review": "Felt like a copy of another book.",
+        "rating": 1
+    },
+    {
+        "book_id": 21,
+        "review": "Great story, characters felt real.",
+        "rating": 2
+    },
+    {
+        "book_id": 21,
+        "review": "Some chapters dragged on, but overall good.",
+        "rating": 4
+    },
+    {
+        "book_id": 21,
+        "review": "I couldn't put it down!",
+        "rating": 1
+    },
+    {
+        "book_id": 21,
+        "review": "Exceptional writing and plot.",
+        "rating": 3
+    },
+    {
+        "book_id": 21,
+        "review": "Great story, characters felt real.",
+        "rating": 4
+    },
+    {
+        "book_id": 21,
+        "review": "Great story, characters felt real.",
+        "rating": 3
+    },
+    {
+        "book_id": 21,
+        "review": "Felt like a copy of another book.",
+        "rating": 3
+    },
+    {
+        "book_id": 22,
+        "review": "Absolutely loved it! Highly recommended.",
+        "rating": 3
+    },
+    {
+        "book_id": 22,
+        "review": "Wonderful journey from start to finish.",
+        "rating": 5
+    },
+    {
+        "book_id": 22,
+        "review": "Too predictable, not for me.",
+        "rating": 5
+    },
+    {
+        "book_id": 22,
+        "review": "Too predictable, not for me.",
+        "rating": 3
+    },
+    {
+        "book_id": 22,
+        "review": "Great story, characters felt real.",
+        "rating": 1
+    },
+    {
+        "book_id": 22,
+        "review": "Exceptional writing and plot.",
+        "rating": 2
+    },
+    {
+        "book_id": 23,
+        "review": "I couldn't put it down!",
+        "rating": 1
+    },
+    {
+        "book_id": 23,
+        "review": "A bit slow in the beginning, but it picks up.",
+        "rating": 2
+    },
+    {
+        "book_id": 23,
+        "review": "Great story, characters felt real.",
+        "rating": 1
+    },
+    {
+        "book_id": 23,
+        "review": "Exceptional writing and plot.",
+        "rating": 2
+    },
+    {
+        "book_id": 23,
+        "review": "Too predictable, not for me.",
+        "rating": 3
+    },
+    {
+        "book_id": 23,
+        "review": "Very creative and unique concept.",
+        "rating": 2
+    },
+    {
+        "book_id": 23,
+        "review": "Very creative and unique concept.",
+        "rating": 1
+    },
+    {
+        "book_id": 23,
+        "review": "Great story, characters felt real.",
+        "rating": 3
+    },
+    {
+        "book_id": 24,
+        "review": "Exceptional writing and plot.",
+        "rating": 1
+    },
+    {
+        "book_id": 24,
+        "review": "A bit slow in the beginning, but it picks up.",
+        "rating": 4
+    },
+    {
+        "book_id": 24,
+        "review": "Very creative and unique concept.",
+        "rating": 1
+    },
+    {
+        "book_id": 24,
+        "review": "Some chapters dragged on, but overall good.",
+        "rating": 2
+    },
+    {
+        "book_id": 24,
+        "review": "Some chapters dragged on, but overall good.",
+        "rating": 3
+    },
+    {
+        "book_id": 24,
+        "review": "Felt like a copy of another book.",
+        "rating": 1
+    },
+    {
+        "book_id": 25,
+        "review": "A bit slow in the beginning, but it picks up.",
+        "rating": 4
+    },
+    {
+        "book_id": 25,
+        "review": "A bit slow in the beginning, but it picks up.",
+        "rating": 1
+    },
+    {
+        "book_id": 25,
+        "review": "Felt like a copy of another book.",
+        "rating": 4
+    },
+    {
+        "book_id": 25,
+        "review": "Absolutely loved it! Highly recommended.",
+        "rating": 1
+    },
+    {
+        "book_id": 25,
+        "review": "Too predictable, not for me.",
+        "rating": 3
+    },
+    {
+        "book_id": 25,
+        "review": "Absolutely loved it! Highly recommended.",
+        "rating": 1
+    },
+    {
+        "book_id": 25,
+        "review": "Some chapters dragged on, but overall good.",
+        "rating": 2
+    },
+    {
+        "book_id": 26,
+        "review": "Wonderful journey from start to finish.",
+        "rating": 4
+    },
+    {
+        "book_id": 26,
+        "review": "Great story, characters felt real.",
+        "rating": 4
+    },
+    {
+        "book_id": 26,
+        "review": "A bit slow in the beginning, but it picks up.",
+        "rating": 3
+    },
+    {
+        "book_id": 26,
+        "review": "Felt like a copy of another book.",
+        "rating": 2
+    },
+    {
+        "book_id": 26,
+        "review": "Great story, characters felt real.",
+        "rating": 5
+    },
+    {
+        "book_id": 27,
+        "review": "Very creative and unique concept.",
+        "rating": 2
+    },
+    {
+        "book_id": 27,
+        "review": "Very creative and unique concept.",
+        "rating": 5
+    },
+    {
+        "book_id": 27,
+        "review": "Too predictable, not for me.",
+        "rating": 3
+    },
+    {
+        "book_id": 27,
+        "review": "Not bad, but could have been shorter.",
+        "rating": 3
+    },
+    {
+        "book_id": 27,
+        "review": "Exceptional writing and plot.",
+        "rating": 3
+    },
+    {
+        "book_id": 27,
+        "review": "Wonderful journey from start to finish.",
+        "rating": 4
+    },
+    {
+        "book_id": 27,
+        "review": "A bit slow in the beginning, but it picks up.",
+        "rating": 1
+    },
+    {
+        "book_id": 27,
+        "review": "Some chapters dragged on, but overall good.",
+        "rating": 3
+    },
+    {
+        "book_id": 28,
+        "review": "Too predictable, not for me.",
+        "rating": 5
+    },
+    {
+        "book_id": 28,
+        "review": "Great story, characters felt real.",
+        "rating": 5
+    },
+    {
+        "book_id": 28,
+        "review": "Great story, characters felt real.",
+        "rating": 5
+    },
+    {
+        "book_id": 28,
+        "review": "A bit slow in the beginning, but it picks up.",
+        "rating": 4
+    },
+    {
+        "book_id": 29,
+        "review": "Great story, characters felt real.",
+        "rating": 2
+    },
+    {
+        "book_id": 29,
+        "review": "A bit slow in the beginning, but it picks up.",
+        "rating": 4
+    },
+    {
+        "book_id": 29,
+        "review": "I couldn't put it down!",
+        "rating": 3
+    },
+    {
+        "book_id": 29,
+        "review": "Too predictable, not for me.",
+        "rating": 2
+    },
+    {
+        "book_id": 29,
+        "review": "Great story, characters felt real.",
+        "rating": 5
+    },
+    {
+        "book_id": 29,
+        "review": "A bit slow in the beginning, but it picks up.",
+        "rating": 3
+    },
+    {
+        "book_id": 29,
+        "review": "Absolutely loved it! Highly recommended.",
+        "rating": 2
+    },
+    {
+        "book_id": 29,
+        "review": "Great story, characters felt real.",
+        "rating": 2
+    },
+    {
+        "book_id": 30,
+        "review": "Too predictable, not for me.",
+        "rating": 5
+    },
+    {
+        "book_id": 30,
+        "review": "Great story, characters felt real.",
+        "rating": 1
+    },
+    {
+        "book_id": 30,
+        "review": "I couldn't put it down!",
+        "rating": 1
+    },
+    {
+        "book_id": 30,
+        "review": "I couldn't put it down!",
+        "rating": 4
+    },
+    {
+        "book_id": 31,
+        "review": "Great story, characters felt real.",
+        "rating": 1
+    },
+    {
+        "book_id": 31,
+        "review": "I couldn't put it down!",
+        "rating": 1
+    },
+    {
+        "book_id": 31,
+        "review": "Not bad, but could have been shorter.",
+        "rating": 1
+    },
+    {
+        "book_id": 31,
+        "review": "Very creative and unique concept.",
+        "rating": 1
+    },
+    {
+        "book_id": 31,
+        "review": "Not bad, but could have been shorter.",
+        "rating": 4
+    },
+    {
+        "book_id": 31,
+        "review": "A bit slow in the beginning, but it picks up.",
+        "rating": 2
+    },
+    {
+        "book_id": 31,
+        "review": "A bit slow in the beginning, but it picks up.",
+        "rating": 4
+    },
+    {
+        "book_id": 32,
+        "review": "Exceptional writing and plot.",
+        "rating": 5
+    },
+    {
+        "book_id": 32,
+        "review": "A bit slow in the beginning, but it picks up.",
+        "rating": 1
+    },
+    {
+        "book_id": 32,
+        "review": "Too predictable, not for me.",
+        "rating": 5
+    },
+    {
+        "book_id": 32,
+        "review": "Absolutely loved it! Highly recommended.",
+        "rating": 5
+    },
+    {
+        "book_id": 32,
+        "review": "Very creative and unique concept.",
+        "rating": 4
+    },
+    {
+        "book_id": 32,
+        "review": "Some chapters dragged on, but overall good.",
+        "rating": 4
+    },
+    {
+        "book_id": 32,
+        "review": "A bit slow in the beginning, but it picks up.",
+        "rating": 4
+    },
+    {
+        "book_id": 33,
+        "review": "Wonderful journey from start to finish.",
+        "rating": 2
+    },
+    {
+        "book_id": 33,
+        "review": "Too predictable, not for me.",
+        "rating": 5
+    },
+    {
+        "book_id": 33,
+        "review": "Not bad, but could have been shorter.",
+        "rating": 4
+    },
+    {
+        "book_id": 33,
+        "review": "Great story, characters felt real.",
+        "rating": 3
+    },
+    {
+        "book_id": 33,
+        "review": "Great story, characters felt real.",
+        "rating": 4
+    },
+    {
+        "book_id": 34,
+        "review": "Very creative and unique concept.",
+        "rating": 1
+    },
+    {
+        "book_id": 34,
+        "review": "Not bad, but could have been shorter.",
+        "rating": 4
+    },
+    {
+        "book_id": 34,
+        "review": "Wonderful journey from start to finish.",
+        "rating": 4
+    },
+    {
+        "book_id": 34,
+        "review": "Felt like a copy of another book.",
+        "rating": 3
+    },
+    {
+        "book_id": 34,
+        "review": "Too predictable, not for me.",
+        "rating": 2
+    },
+    {
+        "book_id": 35,
+        "review": "I couldn't put it down!",
+        "rating": 4
+    },
+    {
+        "book_id": 35,
+        "review": "Very creative and unique concept.",
+        "rating": 2
+    },
+    {
+        "book_id": 35,
+        "review": "Absolutely loved it! Highly recommended.",
+        "rating": 4
+    },
+    {
+        "book_id": 35,
+        "review": "Wonderful journey from start to finish.",
+        "rating": 3
+    },
+    {
+        "book_id": 35,
+        "review": "Absolutely loved it! Highly recommended.",
+        "rating": 5
+    },
+    {
+        "book_id": 35,
+        "review": "Very creative and unique concept.",
+        "rating": 5
+    },
+    {
+        "book_id": 35,
+        "review": "A bit slow in the beginning, but it picks up.",
+        "rating": 4
+    },
+    {
+        "book_id": 36,
+        "review": "Absolutely loved it! Highly recommended.",
+        "rating": 2
+    },
+    {
+        "book_id": 36,
+        "review": "Some chapters dragged on, but overall good.",
+        "rating": 2
+    },
+    {
+        "book_id": 36,
+        "review": "Some chapters dragged on, but overall good.",
+        "rating": 1
+    },
+    {
+        "book_id": 36,
+        "review": "Exceptional writing and plot.",
+        "rating": 3
+    },
+    {
+        "book_id": 36,
+        "review": "Exceptional writing and plot.",
+        "rating": 2
+    },
+    {
+        "book_id": 36,
+        "review": "A bit slow in the beginning, but it picks up.",
+        "rating": 4
+    },
+    {
+        "book_id": 36,
+        "review": "Great story, characters felt real.",
+        "rating": 1
+    },
+    {
+        "book_id": 36,
+        "review": "I couldn't put it down!",
+        "rating": 2
+    },
+    {
+        "book_id": 37,
+        "review": "Absolutely loved it! Highly recommended.",
+        "rating": 3
+    },
+    {
+        "book_id": 37,
+        "review": "Exceptional writing and plot.",
+        "rating": 1
+    },
+    {
+        "book_id": 37,
+        "review": "Felt like a copy of another book.",
+        "rating": 3
+    },
+    {
+        "book_id": 37,
+        "review": "Exceptional writing and plot.",
+        "rating": 4
+    },
+    {
+        "book_id": 37,
+        "review": "Felt like a copy of another book.",
+        "rating": 1
+    },
+    {
+        "book_id": 38,
+        "review": "Felt like a copy of another book.",
+        "rating": 2
+    },
+    {
+        "book_id": 38,
+        "review": "Wonderful journey from start to finish.",
+        "rating": 5
+    },
+    {
+        "book_id": 38,
+        "review": "Some chapters dragged on, but overall good.",
+        "rating": 1
+    },
+    {
+        "book_id": 38,
+        "review": "Not bad, but could have been shorter.",
+        "rating": 3
+    },
+    {
+        "book_id": 39,
+        "review": "Not bad, but could have been shorter.",
+        "rating": 2
+    },
+    {
+        "book_id": 39,
+        "review": "Absolutely loved it! Highly recommended.",
+        "rating": 4
+    },
+    {
+        "book_id": 39,
+        "review": "Absolutely loved it! Highly recommended.",
+        "rating": 1
+    },
+    {
+        "book_id": 39,
+        "review": "Felt like a copy of another book.",
+        "rating": 3
+    },
+    {
+        "book_id": 39,
+        "review": "Exceptional writing and plot.",
+        "rating": 1
+    },
+    {
+        "book_id": 40,
+        "review": "Felt like a copy of another book.",
+        "rating": 5
+    },
+    {
+        "book_id": 40,
+        "review": "Exceptional writing and plot.",
+        "rating": 2
+    },
+    {
+        "book_id": 40,
+        "review": "Wonderful journey from start to finish.",
+        "rating": 1
+    },
+    {
+        "book_id": 40,
+        "review": "Wonderful journey from start to finish.",
+        "rating": 2
+    },
+    {
+        "book_id": 41,
+        "review": "Great story, characters felt real.",
+        "rating": 3
+    },
+    {
+        "book_id": 41,
+        "review": "Very creative and unique concept.",
+        "rating": 4
+    },
+    {
+        "book_id": 41,
+        "review": "A bit slow in the beginning, but it picks up.",
+        "rating": 2
+    },
+    {
+        "book_id": 41,
+        "review": "Exceptional writing and plot.",
+        "rating": 4
+    },
+    {
+        "book_id": 41,
+        "review": "Wonderful journey from start to finish.",
+        "rating": 2
+    },
+    {
+        "book_id": 41,
+        "review": "Exceptional writing and plot.",
+        "rating": 4
+    },
+    {
+        "book_id": 41,
+        "review": "A bit slow in the beginning, but it picks up.",
+        "rating": 5
+    },
+    {
+        "book_id": 42,
+        "review": "Some chapters dragged on, but overall good.",
+        "rating": 1
+    },
+    {
+        "book_id": 42,
+        "review": "Great story, characters felt real.",
+        "rating": 2
+    },
+    {
+        "book_id": 42,
+        "review": "Not bad, but could have been shorter.",
+        "rating": 3
+    },
+    {
+        "book_id": 42,
+        "review": "Some chapters dragged on, but overall good.",
+        "rating": 3
+    },
+    {
+        "book_id": 42,
+        "review": "Absolutely loved it! Highly recommended.",
+        "rating": 3
+    },
+    {
+        "book_id": 42,
+        "review": "Some chapters dragged on, but overall good.",
+        "rating": 2
+    },
+    {
+        "book_id": 42,
+        "review": "I couldn't put it down!",
+        "rating": 3
+    },
+    {
+        "book_id": 42,
+        "review": "Exceptional writing and plot.",
+        "rating": 2
+    },
+    {
+        "book_id": 43,
+        "review": "A bit slow in the beginning, but it picks up.",
+        "rating": 4
+    },
+    {
+        "book_id": 43,
+        "review": "Exceptional writing and plot.",
+        "rating": 2
+    },
+    {
+        "book_id": 43,
+        "review": "Not bad, but could have been shorter.",
+        "rating": 3
+    },
+    {
+        "book_id": 43,
+        "review": "Very creative and unique concept.",
+        "rating": 1
+    },
+    {
+        "book_id": 43,
+        "review": "Felt like a copy of another book.",
+        "rating": 1
+    },
+    {
+        "book_id": 43,
+        "review": "Exceptional writing and plot.",
+        "rating": 2
+    },
+    {
+        "book_id": 43,
+        "review": "Too predictable, not for me.",
+        "rating": 2
+    },
+    {
+        "book_id": 44,
+        "review": "Absolutely loved it! Highly recommended.",
+        "rating": 3
+    },
+    {
+        "book_id": 44,
+        "review": "Great story, characters felt real.",
+        "rating": 1
+    },
+    {
+        "book_id": 44,
+        "review": "Too predictable, not for me.",
+        "rating": 3
+    },
+    {
+        "book_id": 44,
+        "review": "I couldn't put it down!",
+        "rating": 5
+    },
+    {
+        "book_id": 45,
+        "review": "Great story, characters felt real.",
+        "rating": 5
+    },
+    {
+        "book_id": 45,
+        "review": "Too predictable, not for me.",
+        "rating": 5
+    },
+    {
+        "book_id": 45,
+        "review": "Absolutely loved it! Highly recommended.",
+        "rating": 4
+    },
+    {
+        "book_id": 45,
+        "review": "Wonderful journey from start to finish.",
+        "rating": 4
+    },
+    {
+        "book_id": 45,
+        "review": "Too predictable, not for me.",
+        "rating": 4
+    },
+    {
+        "book_id": 45,
+        "review": "Very creative and unique concept.",
+        "rating": 2
+    },
+    {
+        "book_id": 45,
+        "review": "Felt like a copy of another book.",
+        "rating": 1
+    },
+    {
+        "book_id": 45,
+        "review": "Not bad, but could have been shorter.",
+        "rating": 1
+    },
+    {
+        "book_id": 46,
+        "review": "I couldn't put it down!",
+        "rating": 2
+    },
+    {
+        "book_id": 46,
+        "review": "Great story, characters felt real.",
+        "rating": 1
+    },
+    {
+        "book_id": 46,
+        "review": "Too predictable, not for me.",
+        "rating": 1
+    },
+    {
+        "book_id": 46,
+        "review": "Felt like a copy of another book.",
+        "rating": 4
+    },
+    {
+        "book_id": 46,
+        "review": "Felt like a copy of another book.",
+        "rating": 2
+    },
+    {
+        "book_id": 47,
+        "review": "A bit slow in the beginning, but it picks up.",
+        "rating": 2
+    },
+    {
+        "book_id": 47,
+        "review": "Absolutely loved it! Highly recommended.",
+        "rating": 2
+    },
+    {
+        "book_id": 47,
+        "review": "Great story, characters felt real.",
+        "rating": 5
+    },
+    {
+        "book_id": 47,
+        "review": "I couldn't put it down!",
+        "rating": 1
+    },
+    {
+        "book_id": 47,
+        "review": "A bit slow in the beginning, but it picks up.",
+        "rating": 3
+    },
+    {
+        "book_id": 47,
+        "review": "Exceptional writing and plot.",
+        "rating": 1
+    },
+    {
+        "book_id": 48,
+        "review": "Absolutely loved it! Highly recommended.",
+        "rating": 4
+    },
+    {
+        "book_id": 48,
+        "review": "Felt like a copy of another book.",
+        "rating": 1
+    },
+    {
+        "book_id": 48,
+        "review": "Exceptional writing and plot.",
+        "rating": 1
+    },
+    {
+        "book_id": 48,
+        "review": "Some chapters dragged on, but overall good.",
+        "rating": 5
+    },
+    {
+        "book_id": 48,
+        "review": "Wonderful journey from start to finish.",
+        "rating": 5
+    },
+    {
+        "book_id": 48,
+        "review": "Great story, characters felt real.",
+        "rating": 5
+    },
+    {
+        "book_id": 48,
+        "review": "A bit slow in the beginning, but it picks up.",
+        "rating": 4
+    },
+    {
+        "book_id": 49,
+        "review": "Exceptional writing and plot.",
+        "rating": 1
+    },
+    {
+        "book_id": 49,
+        "review": "Too predictable, not for me.",
+        "rating": 2
+    },
+    {
+        "book_id": 49,
+        "review": "Exceptional writing and plot.",
+        "rating": 1
+    },
+    {
+        "book_id": 49,
+        "review": "A bit slow in the beginning, but it picks up.",
+        "rating": 1
+    },
+    {
+        "book_id": 49,
+        "review": "Absolutely loved it! Highly recommended.",
+        "rating": 3
+    },
+    {
+        "book_id": 49,
+        "review": "I couldn't put it down!",
+        "rating": 4
+    },
+    {
+        "book_id": 49,
+        "review": "Felt like a copy of another book.",
+        "rating": 4
+    },
+    {
+        "book_id": 49,
+        "review": "Some chapters dragged on, but overall good.",
+        "rating": 4
+    },
+    {
+        "book_id": 50,
+        "review": "Exceptional writing and plot.",
+        "rating": 2
+    },
+    {
+        "book_id": 50,
+        "review": "A bit slow in the beginning, but it picks up.",
+        "rating": 2
+    },
+    {
+        "book_id": 50,
+        "review": "Absolutely loved it! Highly recommended.",
+        "rating": 1
+    },
+    {
+        "book_id": 50,
+        "review": "Very creative and unique concept.",
+        "rating": 3
+    },
+    {
+        "book_id": 50,
+        "review": "I couldn't put it down!",
+        "rating": 4
+    },
+    {
+        "book_id": 51,
+        "review": "Exceptional writing and plot.",
+        "rating": 1
+    },
+    {
+        "book_id": 51,
+        "review": "Great story, characters felt real.",
+        "rating": 2
+    },
+    {
+        "book_id": 51,
+        "review": "I couldn't put it down!",
+        "rating": 5
+    },
+    {
+        "book_id": 51,
+        "review": "Very creative and unique concept.",
+        "rating": 2
+    },
+    {
+        "book_id": 51,
+        "review": "A bit slow in the beginning, but it picks up.",
+        "rating": 3
+    },
+    {
+        "book_id": 51,
+        "review": "Great story, characters felt real.",
+        "rating": 4
+    },
+    {
+        "book_id": 52,
+        "review": "Some chapters dragged on, but overall good.",
+        "rating": 2
+    },
+    {
+        "book_id": 52,
+        "review": "Exceptional writing and plot.",
+        "rating": 1
+    },
+    {
+        "book_id": 52,
+        "review": "Great story, characters felt real.",
+        "rating": 3
+    },
+    {
+        "book_id": 52,
+        "review": "Felt like a copy of another book.",
+        "rating": 5
+    },
+    {
+        "book_id": 53,
+        "review": "A bit slow in the beginning, but it picks up.",
+        "rating": 2
+    },
+    {
+        "book_id": 53,
+        "review": "Wonderful journey from start to finish.",
+        "rating": 5
+    },
+    {
+        "book_id": 53,
+        "review": "Too predictable, not for me.",
+        "rating": 1
+    },
+    {
+        "book_id": 53,
+        "review": "Very creative and unique concept.",
+        "rating": 1
+    },
+    {
+        "book_id": 53,
+        "review": "Too predictable, not for me.",
+        "rating": 1
+    },
+    {
+        "book_id": 53,
+        "review": "Exceptional writing and plot.",
+        "rating": 1
+    },
+    {
+        "book_id": 54,
+        "review": "Too predictable, not for me.",
+        "rating": 5
+    },
+    {
+        "book_id": 54,
+        "review": "Wonderful journey from start to finish.",
+        "rating": 5
+    },
+    {
+        "book_id": 54,
+        "review": "Very creative and unique concept.",
+        "rating": 2
+    },
+    {
+        "book_id": 54,
+        "review": "Very creative and unique concept.",
+        "rating": 1
+    },
+    {
+        "book_id": 54,
+        "review": "Exceptional writing and plot.",
+        "rating": 1
+    },
+    {
+        "book_id": 54,
+        "review": "Some chapters dragged on, but overall good.",
+        "rating": 3
+    },
+    {
+        "book_id": 54,
+        "review": "Exceptional writing and plot.",
+        "rating": 3
+    },
+    {
+        "book_id": 55,
+        "review": "Exceptional writing and plot.",
+        "rating": 3
+    },
+    {
+        "book_id": 55,
+        "review": "Wonderful journey from start to finish.",
+        "rating": 4
+    },
+    {
+        "book_id": 55,
+        "review": "Absolutely loved it! Highly recommended.",
+        "rating": 2
+    },
+    {
+        "book_id": 55,
+        "review": "Great story, characters felt real.",
+        "rating": 5
+    },
+    {
+        "book_id": 55,
+        "review": "Very creative and unique concept.",
+        "rating": 3
+    },
+    {
+        "book_id": 55,
+        "review": "Very creative and unique concept.",
+        "rating": 5
+    },
+    {
+        "book_id": 56,
+        "review": "Exceptional writing and plot.",
+        "rating": 5
+    },
+    {
+        "book_id": 56,
+        "review": "Great story, characters felt real.",
+        "rating": 2
+    },
+    {
+        "book_id": 56,
+        "review": "Too predictable, not for me.",
+        "rating": 3
+    },
+    {
+        "book_id": 56,
+        "review": "I couldn't put it down!",
+        "rating": 5
+    },
+    {
+        "book_id": 56,
+        "review": "Some chapters dragged on, but overall good.",
+        "rating": 2
+    },
+    {
+        "book_id": 56,
+        "review": "Not bad, but could have been shorter.",
+        "rating": 1
+    },
+    {
+        "book_id": 56,
+        "review": "Absolutely loved it! Highly recommended.",
+        "rating": 1
+    },
+    {
+        "book_id": 56,
+        "review": "Felt like a copy of another book.",
+        "rating": 1
+    },
+    {
+        "book_id": 57,
+        "review": "I couldn't put it down!",
+        "rating": 5
+    },
+    {
+        "book_id": 57,
+        "review": "Absolutely loved it! Highly recommended.",
+        "rating": 1
+    },
+    {
+        "book_id": 57,
+        "review": "Felt like a copy of another book.",
+        "rating": 2
+    },
+    {
+        "book_id": 57,
+        "review": "Absolutely loved it! Highly recommended.",
+        "rating": 2
+    },
+    {
+        "book_id": 57,
+        "review": "Too predictable, not for me.",
+        "rating": 3
+    },
+    {
+        "book_id": 57,
+        "review": "Wonderful journey from start to finish.",
+        "rating": 2
+    },
+    {
+        "book_id": 58,
+        "review": "Too predictable, not for me.",
+        "rating": 5
+    },
+    {
+        "book_id": 58,
+        "review": "Not bad, but could have been shorter.",
+        "rating": 2
+    },
+    {
+        "book_id": 58,
+        "review": "I couldn't put it down!",
+        "rating": 2
+    },
+    {
+        "book_id": 58,
+        "review": "Felt like a copy of another book.",
+        "rating": 5
+    },
+    {
+        "book_id": 59,
+        "review": "Felt like a copy of another book.",
+        "rating": 4
+    },
+    {
+        "book_id": 59,
+        "review": "Absolutely loved it! Highly recommended.",
+        "rating": 3
+    },
+    {
+        "book_id": 59,
+        "review": "Absolutely loved it! Highly recommended.",
+        "rating": 5
+    },
+    {
+        "book_id": 59,
+        "review": "Great story, characters felt real.",
+        "rating": 3
+    },
+    {
+        "book_id": 59,
+        "review": "Not bad, but could have been shorter.",
+        "rating": 5
+    },
+    {
+        "book_id": 59,
+        "review": "I couldn't put it down!",
+        "rating": 5
+    },
+    {
+        "book_id": 59,
+        "review": "Too predictable, not for me.",
+        "rating": 4
+    },
+    {
+        "book_id": 60,
+        "review": "Exceptional writing and plot.",
+        "rating": 3
+    },
+    {
+        "book_id": 60,
+        "review": "Some chapters dragged on, but overall good.",
+        "rating": 1
+    },
+    {
+        "book_id": 60,
+        "review": "Very creative and unique concept.",
+        "rating": 5
+    },
+    {
+        "book_id": 60,
+        "review": "Too predictable, not for me.",
+        "rating": 3
+    },
+    {
+        "book_id": 60,
+        "review": "Exceptional writing and plot.",
+        "rating": 4
+    },
+    {
+        "book_id": 60,
+        "review": "Exceptional writing and plot.",
+        "rating": 3
+    },
+    {
+        "book_id": 60,
+        "review": "I couldn't put it down!",
+        "rating": 5
+    },
+    {
+        "book_id": 61,
+        "review": "Wonderful journey from start to finish.",
+        "rating": 2
+    },
+    {
+        "book_id": 61,
+        "review": "Some chapters dragged on, but overall good.",
+        "rating": 3
+    },
+    {
+        "book_id": 61,
+        "review": "Felt like a copy of another book.",
+        "rating": 5
+    },
+    {
+        "book_id": 61,
+        "review": "Some chapters dragged on, but overall good.",
+        "rating": 5
+    },
+    {
+        "book_id": 61,
+        "review": "Not bad, but could have been shorter.",
+        "rating": 3
+    },
+    {
+        "book_id": 61,
+        "review": "I couldn't put it down!",
+        "rating": 1
+    },
+    {
+        "book_id": 61,
+        "review": "Some chapters dragged on, but overall good.",
+        "rating": 5
+    },
+    {
+        "book_id": 61,
+        "review": "Wonderful journey from start to finish.",
+        "rating": 1
+    },
+    {
+        "book_id": 62,
+        "review": "Absolutely loved it! Highly recommended.",
+        "rating": 4
+    },
+    {
+        "book_id": 62,
+        "review": "Some chapters dragged on, but overall good.",
+        "rating": 3
+    },
+    {
+        "book_id": 62,
+        "review": "I couldn't put it down!",
+        "rating": 3
+    },
+    {
+        "book_id": 62,
+        "review": "Great story, characters felt real.",
+        "rating": 1
+    },
+    {
+        "book_id": 62,
+        "review": "Great story, characters felt real.",
+        "rating": 4
+    },
+    {
+        "book_id": 62,
+        "review": "Not bad, but could have been shorter.",
+        "rating": 5
+    },
+    {
+        "book_id": 62,
+        "review": "Wonderful journey from start to finish.",
+        "rating": 1
+    },
+    {
+        "book_id": 62,
+        "review": "Wonderful journey from start to finish.",
+        "rating": 5
+    },
+    {
+        "book_id": 63,
+        "review": "I couldn't put it down!",
+        "rating": 3
+    },
+    {
+        "book_id": 63,
+        "review": "Great story, characters felt real.",
+        "rating": 4
+    },
+    {
+        "book_id": 63,
+        "review": "Very creative and unique concept.",
+        "rating": 3
+    },
+    {
+        "book_id": 63,
+        "review": "Some chapters dragged on, but overall good.",
+        "rating": 2
+    },
+    {
+        "book_id": 63,
+        "review": "Great story, characters felt real.",
+        "rating": 4
+    },
+    {
+        "book_id": 63,
+        "review": "Felt like a copy of another book.",
+        "rating": 4
+    },
+    {
+        "book_id": 63,
+        "review": "Exceptional writing and plot.",
+        "rating": 1
+    },
+    {
+        "book_id": 64,
+        "review": "Too predictable, not for me.",
+        "rating": 5
+    },
+    {
+        "book_id": 64,
+        "review": "Absolutely loved it! Highly recommended.",
+        "rating": 2
+    },
+    {
+        "book_id": 64,
+        "review": "Some chapters dragged on, but overall good.",
+        "rating": 5
+    },
+    {
+        "book_id": 64,
+        "review": "Felt like a copy of another book.",
+        "rating": 4
+    },
+    {
+        "book_id": 65,
+        "review": "Not bad, but could have been shorter.",
+        "rating": 3
+    },
+    {
+        "book_id": 65,
+        "review": "Felt like a copy of another book.",
+        "rating": 2
+    },
+    {
+        "book_id": 65,
+        "review": "Very creative and unique concept.",
+        "rating": 5
+    },
+    {
+        "book_id": 65,
+        "review": "Felt like a copy of another book.",
+        "rating": 2
+    },
+    {
+        "book_id": 66,
+        "review": "Not bad, but could have been shorter.",
+        "rating": 4
+    },
+    {
+        "book_id": 66,
+        "review": "Very creative and unique concept.",
+        "rating": 1
+    },
+    {
+        "book_id": 66,
+        "review": "Wonderful journey from start to finish.",
+        "rating": 3
+    },
+    {
+        "book_id": 66,
+        "review": "Wonderful journey from start to finish.",
+        "rating": 4
+    },
+    {
+        "book_id": 66,
+        "review": "Wonderful journey from start to finish.",
+        "rating": 4
+    },
+    {
+        "book_id": 66,
+        "review": "Felt like a copy of another book.",
+        "rating": 4
+    },
+    {
+        "book_id": 66,
+        "review": "Great story, characters felt real.",
+        "rating": 1
+    },
+    {
+        "book_id": 66,
+        "review": "I couldn't put it down!",
+        "rating": 5
+    },
+    {
+        "book_id": 67,
+        "review": "I couldn't put it down!",
+        "rating": 1
+    },
+    {
+        "book_id": 67,
+        "review": "Wonderful journey from start to finish.",
+        "rating": 5
+    },
+    {
+        "book_id": 67,
+        "review": "Some chapters dragged on, but overall good.",
+        "rating": 2
+    },
+    {
+        "book_id": 67,
+        "review": "Wonderful journey from start to finish.",
+        "rating": 5
+    },
+    {
+        "book_id": 67,
+        "review": "Wonderful journey from start to finish.",
+        "rating": 2
+    },
+    {
+        "book_id": 67,
+        "review": "Very creative and unique concept.",
+        "rating": 5
+    },
+    {
+        "book_id": 68,
+        "review": "Absolutely loved it! Highly recommended.",
+        "rating": 3
+    },
+    {
+        "book_id": 68,
+        "review": "Wonderful journey from start to finish.",
+        "rating": 5
+    },
+    {
+        "book_id": 68,
+        "review": "Wonderful journey from start to finish.",
+        "rating": 4
+    },
+    {
+        "book_id": 68,
+        "review": "Too predictable, not for me.",
+        "rating": 2
+    },
+    {
+        "book_id": 68,
+        "review": "Some chapters dragged on, but overall good.",
+        "rating": 1
+    },
+    {
+        "book_id": 68,
+        "review": "Some chapters dragged on, but overall good.",
+        "rating": 2
+    },
+    {
+        "book_id": 69,
+        "review": "Too predictable, not for me.",
+        "rating": 4
+    },
+    {
+        "book_id": 69,
+        "review": "Absolutely loved it! Highly recommended.",
+        "rating": 3
+    },
+    {
+        "book_id": 69,
+        "review": "Too predictable, not for me.",
+        "rating": 3
+    },
+    {
+        "book_id": 69,
+        "review": "Absolutely loved it! Highly recommended.",
+        "rating": 2
+    },
+    {
+        "book_id": 69,
+        "review": "Felt like a copy of another book.",
+        "rating": 5
+    },
+    {
+        "book_id": 69,
+        "review": "Great story, characters felt real.",
+        "rating": 5
+    },
+    {
+        "book_id": 70,
+        "review": "Some chapters dragged on, but overall good.",
+        "rating": 5
+    },
+    {
+        "book_id": 70,
+        "review": "Some chapters dragged on, but overall good.",
+        "rating": 4
+    },
+    {
+        "book_id": 70,
+        "review": "Some chapters dragged on, but overall good.",
+        "rating": 5
+    },
+    {
+        "book_id": 70,
+        "review": "Absolutely loved it! Highly recommended.",
+        "rating": 4
+    },
+    {
+        "book_id": 71,
+        "review": "Great story, characters felt real.",
+        "rating": 1
+    },
+    {
+        "book_id": 71,
+        "review": "Too predictable, not for me.",
+        "rating": 2
+    },
+    {
+        "book_id": 71,
+        "review": "Very creative and unique concept.",
+        "rating": 3
+    },
+    {
+        "book_id": 71,
+        "review": "Not bad, but could have been shorter.",
+        "rating": 5
+    },
+    {
+        "book_id": 71,
+        "review": "Felt like a copy of another book.",
+        "rating": 3
+    },
+    {
+        "book_id": 71,
+        "review": "I couldn't put it down!",
+        "rating": 4
+    },
+    {
+        "book_id": 71,
+        "review": "Too predictable, not for me.",
+        "rating": 1
+    },
+    {
+        "book_id": 72,
+        "review": "A bit slow in the beginning, but it picks up.",
+        "rating": 5
+    },
+    {
+        "book_id": 72,
+        "review": "Great story, characters felt real.",
+        "rating": 1
+    },
+    {
+        "book_id": 72,
+        "review": "Too predictable, not for me.",
+        "rating": 5
+    },
+    {
+        "book_id": 72,
+        "review": "A bit slow in the beginning, but it picks up.",
+        "rating": 2
+    },
+    {
+        "book_id": 73,
+        "review": "I couldn't put it down!",
+        "rating": 5
+    },
+    {
+        "book_id": 73,
+        "review": "Not bad, but could have been shorter.",
+        "rating": 4
+    },
+    {
+        "book_id": 73,
+        "review": "I couldn't put it down!",
+        "rating": 1
+    },
+    {
+        "book_id": 73,
+        "review": "Exceptional writing and plot.",
+        "rating": 5
+    },
+    {
+        "book_id": 73,
+        "review": "Wonderful journey from start to finish.",
+        "rating": 4
+    },
+    {
+        "book_id": 74,
+        "review": "Very creative and unique concept.",
+        "rating": 3
+    },
+    {
+        "book_id": 74,
+        "review": "Not bad, but could have been shorter.",
+        "rating": 5
+    },
+    {
+        "book_id": 74,
+        "review": "Felt like a copy of another book.",
+        "rating": 3
+    },
+    {
+        "book_id": 74,
+        "review": "Exceptional writing and plot.",
+        "rating": 5
+    },
+    {
+        "book_id": 74,
+        "review": "Exceptional writing and plot.",
+        "rating": 2
+    },
+    {
+        "book_id": 74,
+        "review": "I couldn't put it down!",
+        "rating": 4
+    },
+    {
+        "book_id": 74,
+        "review": "I couldn't put it down!",
+        "rating": 5
+    },
+    {
+        "book_id": 75,
+        "review": "Not bad, but could have been shorter.",
+        "rating": 5
+    },
+    {
+        "book_id": 75,
+        "review": "Very creative and unique concept.",
+        "rating": 5
+    },
+    {
+        "book_id": 75,
+        "review": "Felt like a copy of another book.",
+        "rating": 3
+    },
+    {
+        "book_id": 75,
+        "review": "Felt like a copy of another book.",
+        "rating": 5
+    },
+    {
+        "book_id": 75,
+        "review": "Too predictable, not for me.",
+        "rating": 5
+    },
+    {
+        "book_id": 75,
+        "review": "Some chapters dragged on, but overall good.",
+        "rating": 3
+    },
+    {
+        "book_id": 76,
+        "review": "Very creative and unique concept.",
+        "rating": 3
+    },
+    {
+        "book_id": 76,
+        "review": "Wonderful journey from start to finish.",
+        "rating": 5
+    },
+    {
+        "book_id": 76,
+        "review": "I couldn't put it down!",
+        "rating": 5
+    },
+    {
+        "book_id": 76,
+        "review": "Too predictable, not for me.",
+        "rating": 3
+    },
+    {
+        "book_id": 76,
+        "review": "Not bad, but could have been shorter.",
+        "rating": 4
+    },
+    {
+        "book_id": 76,
+        "review": "A bit slow in the beginning, but it picks up.",
+        "rating": 3
+    },
+    {
+        "book_id": 77,
+        "review": "A bit slow in the beginning, but it picks up.",
+        "rating": 3
+    },
+    {
+        "book_id": 77,
+        "review": "Wonderful journey from start to finish.",
+        "rating": 5
+    },
+    {
+        "book_id": 77,
+        "review": "Great story, characters felt real.",
+        "rating": 1
+    },
+    {
+        "book_id": 77,
+        "review": "Some chapters dragged on, but overall good.",
+        "rating": 5
+    },
+    {
+        "book_id": 77,
+        "review": "Not bad, but could have been shorter.",
+        "rating": 5
+    },
+    {
+        "book_id": 77,
+        "review": "A bit slow in the beginning, but it picks up.",
+        "rating": 4
+    },
+    {
+        "book_id": 77,
+        "review": "Too predictable, not for me.",
+        "rating": 2
+    },
+    {
+        "book_id": 77,
+        "review": "Exceptional writing and plot.",
+        "rating": 5
+    },
+    {
+        "book_id": 78,
+        "review": "Some chapters dragged on, but overall good.",
+        "rating": 4
+    },
+    {
+        "book_id": 78,
+        "review": "Absolutely loved it! Highly recommended.",
+        "rating": 4
+    },
+    {
+        "book_id": 78,
+        "review": "Not bad, but could have been shorter.",
+        "rating": 3
+    },
+    {
+        "book_id": 78,
+        "review": "Absolutely loved it! Highly recommended.",
+        "rating": 5
+    },
+    {
+        "book_id": 78,
+        "review": "Great story, characters felt real.",
+        "rating": 4
+    },
+    {
+        "book_id": 78,
+        "review": "Some chapters dragged on, but overall good.",
+        "rating": 4
+    },
+    {
+        "book_id": 79,
+        "review": "Absolutely loved it! Highly recommended.",
+        "rating": 2
+    },
+    {
+        "book_id": 79,
+        "review": "Not bad, but could have been shorter.",
+        "rating": 1
+    },
+    {
+        "book_id": 79,
+        "review": "A bit slow in the beginning, but it picks up.",
+        "rating": 4
+    },
+    {
+        "book_id": 79,
+        "review": "Too predictable, not for me.",
+        "rating": 3
+    },
+    {
+        "book_id": 79,
+        "review": "I couldn't put it down!",
+        "rating": 1
+    },
+    {
+        "book_id": 79,
+        "review": "I couldn't put it down!",
+        "rating": 4
+    },
+    {
+        "book_id": 79,
+        "review": "Wonderful journey from start to finish.",
+        "rating": 2
+    },
+    {
+        "book_id": 79,
+        "review": "Absolutely loved it! Highly recommended.",
+        "rating": 5
+    },
+    {
+        "book_id": 80,
+        "review": "I couldn't put it down!",
+        "rating": 1
+    },
+    {
+        "book_id": 80,
+        "review": "Some chapters dragged on, but overall good.",
+        "rating": 2
+    },
+    {
+        "book_id": 80,
+        "review": "Some chapters dragged on, but overall good.",
+        "rating": 5
+    },
+    {
+        "book_id": 80,
+        "review": "I couldn't put it down!",
+        "rating": 4
+    },
+    {
+        "book_id": 80,
+        "review": "I couldn't put it down!",
+        "rating": 1
+    },
+    {
+        "book_id": 80,
+        "review": "Too predictable, not for me.",
+        "rating": 4
+    },
+    {
+        "book_id": 81,
+        "review": "Absolutely loved it! Highly recommended.",
+        "rating": 5
+    },
+    {
+        "book_id": 81,
+        "review": "Great story, characters felt real.",
+        "rating": 3
+    },
+    {
+        "book_id": 81,
+        "review": "Felt like a copy of another book.",
+        "rating": 3
+    },
+    {
+        "book_id": 81,
+        "review": "Not bad, but could have been shorter.",
+        "rating": 3
+    },
+    {
+        "book_id": 82,
+        "review": "Too predictable, not for me.",
+        "rating": 4
+    },
+    {
+        "book_id": 82,
+        "review": "Some chapters dragged on, but overall good.",
+        "rating": 3
+    },
+    {
+        "book_id": 82,
+        "review": "Exceptional writing and plot.",
+        "rating": 3
+    },
+    {
+        "book_id": 82,
+        "review": "Exceptional writing and plot.",
+        "rating": 5
+    },
+    {
+        "book_id": 82,
+        "review": "A bit slow in the beginning, but it picks up.",
+        "rating": 1
+    },
+    {
+        "book_id": 82,
+        "review": "Some chapters dragged on, but overall good.",
+        "rating": 4
+    },
+    {
+        "book_id": 82,
+        "review": "Very creative and unique concept.",
+        "rating": 2
+    },
+    {
+        "book_id": 82,
+        "review": "Some chapters dragged on, but overall good.",
+        "rating": 5
+    },
+    {
+        "book_id": 83,
+        "review": "Great story, characters felt real.",
+        "rating": 5
+    },
+    {
+        "book_id": 83,
+        "review": "Very creative and unique concept.",
+        "rating": 2
+    },
+    {
+        "book_id": 83,
+        "review": "Great story, characters felt real.",
+        "rating": 4
+    },
+    {
+        "book_id": 83,
+        "review": "Very creative and unique concept.",
+        "rating": 2
+    },
+    {
+        "book_id": 84,
+        "review": "A bit slow in the beginning, but it picks up.",
+        "rating": 2
+    },
+    {
+        "book_id": 84,
+        "review": "Very creative and unique concept.",
+        "rating": 4
+    },
+    {
+        "book_id": 84,
+        "review": "Felt like a copy of another book.",
+        "rating": 2
+    },
+    {
+        "book_id": 84,
+        "review": "Great story, characters felt real.",
+        "rating": 3
+    },
+    {
+        "book_id": 84,
+        "review": "Great story, characters felt real.",
+        "rating": 3
+    },
+    {
+        "book_id": 84,
+        "review": "A bit slow in the beginning, but it picks up.",
+        "rating": 1
+    },
+    {
+        "book_id": 85,
+        "review": "Great story, characters felt real.",
+        "rating": 2
+    },
+    {
+        "book_id": 85,
+        "review": "Too predictable, not for me.",
+        "rating": 5
+    },
+    {
+        "book_id": 85,
+        "review": "Some chapters dragged on, but overall good.",
+        "rating": 1
+    },
+    {
+        "book_id": 85,
+        "review": "Absolutely loved it! Highly recommended.",
+        "rating": 3
+    },
+    {
+        "book_id": 85,
+        "review": "Great story, characters felt real.",
+        "rating": 1
+    },
+    {
+        "book_id": 85,
+        "review": "Great story, characters felt real.",
+        "rating": 2
+    },
+    {
+        "book_id": 85,
+        "review": "I couldn't put it down!",
+        "rating": 5
+    },
+    {
+        "book_id": 86,
+        "review": "Wonderful journey from start to finish.",
+        "rating": 4
+    },
+    {
+        "book_id": 86,
+        "review": "Felt like a copy of another book.",
+        "rating": 3
+    },
+    {
+        "book_id": 86,
+        "review": "Too predictable, not for me.",
+        "rating": 5
+    },
+    {
+        "book_id": 86,
+        "review": "Very creative and unique concept.",
+        "rating": 5
+    },
+    {
+        "book_id": 86,
+        "review": "Great story, characters felt real.",
+        "rating": 3
+    },
+    {
+        "book_id": 86,
+        "review": "A bit slow in the beginning, but it picks up.",
+        "rating": 3
+    },
+    {
+        "book_id": 86,
+        "review": "Great story, characters felt real.",
+        "rating": 4
+    },
+    {
+        "book_id": 87,
+        "review": "Some chapters dragged on, but overall good.",
+        "rating": 1
+    },
+    {
+        "book_id": 87,
+        "review": "Very creative and unique concept.",
+        "rating": 2
+    },
+    {
+        "book_id": 87,
+        "review": "Not bad, but could have been shorter.",
+        "rating": 5
+    },
+    {
+        "book_id": 87,
+        "review": "Too predictable, not for me.",
+        "rating": 5
+    },
+    {
+        "book_id": 87,
+        "review": "I couldn't put it down!",
+        "rating": 4
+    },
+    {
+        "book_id": 87,
+        "review": "Exceptional writing and plot.",
+        "rating": 5
+    },
+    {
+        "book_id": 88,
+        "review": "Very creative and unique concept.",
+        "rating": 2
+    },
+    {
+        "book_id": 88,
+        "review": "Exceptional writing and plot.",
+        "rating": 2
+    },
+    {
+        "book_id": 88,
+        "review": "Very creative and unique concept.",
+        "rating": 3
+    },
+    {
+        "book_id": 88,
+        "review": "Not bad, but could have been shorter.",
+        "rating": 1
+    },
+    {
+        "book_id": 88,
+        "review": "Felt like a copy of another book.",
+        "rating": 3
+    },
+    {
+        "book_id": 88,
+        "review": "Great story, characters felt real.",
+        "rating": 4
+    },
+    {
+        "book_id": 88,
+        "review": "Great story, characters felt real.",
+        "rating": 3
+    },
+    {
+        "book_id": 89,
+        "review": "Absolutely loved it! Highly recommended.",
+        "rating": 3
+    },
+    {
+        "book_id": 89,
+        "review": "A bit slow in the beginning, but it picks up.",
+        "rating": 5
+    },
+    {
+        "book_id": 89,
+        "review": "Exceptional writing and plot.",
+        "rating": 1
+    },
+    {
+        "book_id": 89,
+        "review": "Great story, characters felt real.",
+        "rating": 5
+    },
+    {
+        "book_id": 89,
+        "review": "Wonderful journey from start to finish.",
+        "rating": 3
+    },
+    {
+        "book_id": 89,
+        "review": "Not bad, but could have been shorter.",
+        "rating": 3
+    },
+    {
+        "book_id": 89,
+        "review": "I couldn't put it down!",
+        "rating": 5
+    },
+    {
+        "book_id": 89,
+        "review": "Great story, characters felt real.",
+        "rating": 2
+    },
+    {
+        "book_id": 90,
+        "review": "Not bad, but could have been shorter.",
+        "rating": 1
+    },
+    {
+        "book_id": 90,
+        "review": "Great story, characters felt real.",
+        "rating": 5
+    },
+    {
+        "book_id": 90,
+        "review": "Not bad, but could have been shorter.",
+        "rating": 1
+    },
+    {
+        "book_id": 90,
+        "review": "Some chapters dragged on, but overall good.",
+        "rating": 5
+    },
+    {
+        "book_id": 90,
+        "review": "Some chapters dragged on, but overall good.",
+        "rating": 4
+    },
+    {
+        "book_id": 90,
+        "review": "Very creative and unique concept.",
+        "rating": 5
+    },
+    {
+        "book_id": 90,
+        "review": "Some chapters dragged on, but overall good.",
+        "rating": 2
+    },
+    {
+        "book_id": 90,
+        "review": "Some chapters dragged on, but overall good.",
+        "rating": 2
+    },
+    {
+        "book_id": 91,
+        "review": "Very creative and unique concept.",
+        "rating": 3
+    },
+    {
+        "book_id": 91,
+        "review": "Very creative and unique concept.",
+        "rating": 4
+    },
+    {
+        "book_id": 91,
+        "review": "Absolutely loved it! Highly recommended.",
+        "rating": 3
+    },
+    {
+        "book_id": 91,
+        "review": "Some chapters dragged on, but overall good.",
+        "rating": 5
+    },
+    {
+        "book_id": 92,
+        "review": "I couldn't put it down!",
+        "rating": 1
+    },
+    {
+        "book_id": 92,
+        "review": "Felt like a copy of another book.",
+        "rating": 1
+    },
+    {
+        "book_id": 92,
+        "review": "I couldn't put it down!",
+        "rating": 3
+    },
+    {
+        "book_id": 92,
+        "review": "Exceptional writing and plot.",
+        "rating": 1
+    },
+    {
+        "book_id": 92,
+        "review": "Wonderful journey from start to finish.",
+        "rating": 2
+    },
+    {
+        "book_id": 92,
+        "review": "I couldn't put it down!",
+        "rating": 5
+    },
+    {
+        "book_id": 92,
+        "review": "Wonderful journey from start to finish.",
+        "rating": 3
+    },
+    {
+        "book_id": 93,
+        "review": "A bit slow in the beginning, but it picks up.",
+        "rating": 1
+    },
+    {
+        "book_id": 93,
+        "review": "Great story, characters felt real.",
+        "rating": 4
+    },
+    {
+        "book_id": 93,
+        "review": "Absolutely loved it! Highly recommended.",
+        "rating": 4
+    },
+    {
+        "book_id": 93,
+        "review": "Felt like a copy of another book.",
+        "rating": 5
+    },
+    {
+        "book_id": 94,
+        "review": "I couldn't put it down!",
+        "rating": 4
+    },
+    {
+        "book_id": 94,
+        "review": "Great story, characters felt real.",
+        "rating": 5
+    },
+    {
+        "book_id": 94,
+        "review": "Felt like a copy of another book.",
+        "rating": 4
+    },
+    {
+        "book_id": 94,
+        "review": "Exceptional writing and plot.",
+        "rating": 3
+    },
+    {
+        "book_id": 95,
+        "review": "I couldn't put it down!",
+        "rating": 2
+    },
+    {
+        "book_id": 95,
+        "review": "A bit slow in the beginning, but it picks up.",
+        "rating": 2
+    },
+    {
+        "book_id": 95,
+        "review": "Exceptional writing and plot.",
+        "rating": 3
+    },
+    {
+        "book_id": 95,
+        "review": "Great story, characters felt real.",
+        "rating": 2
+    },
+    {
+        "book_id": 96,
+        "review": "Wonderful journey from start to finish.",
+        "rating": 3
+    },
+    {
+        "book_id": 96,
+        "review": "Not bad, but could have been shorter.",
+        "rating": 2
+    },
+    {
+        "book_id": 96,
+        "review": "Great story, characters felt real.",
+        "rating": 3
+    },
+    {
+        "book_id": 96,
+        "review": "Felt like a copy of another book.",
+        "rating": 4
+    },
+    {
+        "book_id": 96,
+        "review": "Absolutely loved it! Highly recommended.",
+        "rating": 5
+    },
+    {
+        "book_id": 96,
+        "review": "Great story, characters felt real.",
+        "rating": 5
+    },
+    {
+        "book_id": 97,
+        "review": "Felt like a copy of another book.",
+        "rating": 3
+    },
+    {
+        "book_id": 97,
+        "review": "Great story, characters felt real.",
+        "rating": 4
+    },
+    {
+        "book_id": 97,
+        "review": "Felt like a copy of another book.",
+        "rating": 5
+    },
+    {
+        "book_id": 97,
+        "review": "Too predictable, not for me.",
+        "rating": 4
+    },
+    {
+        "book_id": 97,
+        "review": "Very creative and unique concept.",
+        "rating": 5
+    },
+    {
+        "book_id": 97,
+        "review": "Too predictable, not for me.",
+        "rating": 5
+    },
+    {
+        "book_id": 98,
+        "review": "A bit slow in the beginning, but it picks up.",
+        "rating": 5
+    },
+    {
+        "book_id": 98,
+        "review": "Absolutely loved it! Highly recommended.",
+        "rating": 1
+    },
+    {
+        "book_id": 98,
+        "review": "Felt like a copy of another book.",
+        "rating": 4
+    },
+    {
+        "book_id": 98,
+        "review": "A bit slow in the beginning, but it picks up.",
+        "rating": 3
+    },
+    {
+        "book_id": 99,
+        "review": "Too predictable, not for me.",
+        "rating": 4
+    },
+    {
+        "book_id": 99,
+        "review": "Felt like a copy of another book.",
+        "rating": 5
+    },
+    {
+        "book_id": 99,
+        "review": "Exceptional writing and plot.",
+        "rating": 4
+    },
+    {
+        "book_id": 99,
+        "review": "Felt like a copy of another book.",
+        "rating": 5
+    },
+    {
+        "book_id": 99,
+        "review": "Some chapters dragged on, but overall good.",
+        "rating": 2
+    },
+    {
+        "book_id": 99,
+        "review": "Some chapters dragged on, but overall good.",
+        "rating": 1
+    },
+    {
+        "book_id": 100,
+        "review": "A bit slow in the beginning, but it picks up.",
+        "rating": 3
+    },
+    {
+        "book_id": 100,
+        "review": "Absolutely loved it! Highly recommended.",
+        "rating": 1
+    },
+    {
+        "book_id": 100,
+        "review": "Great story, characters felt real.",
+        "rating": 3
+    },
+    {
+        "book_id": 100,
+        "review": "Exceptional writing and plot.",
+        "rating": 4
+    },
+    {
+        "book_id": 100,
+        "review": "I couldn't put it down!",
+        "rating": 3
+    },
+    {
+        "book_id": 100,
+        "review": "I couldn't put it down!",
+        "rating": 3
+    }
+]

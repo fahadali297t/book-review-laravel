@@ -9,7 +9,7 @@ class Book extends Model
 {
     /** @use HasFactory<\Database\Factories\BookFactory> */
     use HasFactory;
-    public function books()
+    public function reviews()
     {
         return $this->hasMany(Review::class);
     }
