@@ -15,7 +15,6 @@ class BookController extends Controller
         $data  = new Book;
         $book =  $data::with('reviews')->take(3)->get();
         return $book;
-        return $review;
     }
     function newReview()
     {
